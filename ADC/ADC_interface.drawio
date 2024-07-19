@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T15:41:04.653Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EXGczuEiO9YLAg7Myl7L" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T11:20:05.699Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="_RRIzqU0_dmDphkfVG1q" version="24.6.5" type="github">
   <diagram name="Page-1" id="jmYyxMxFKMTEYZxG9lPR">
-    <mxGraphModel dx="574" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#718FB3" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#718FB3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,8 +129,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bR-4oArYyXdeXGkrvtgy-37" value="&lt;div&gt;2x2048x18bit&lt;/div&gt;&lt;div&gt;asynch FIFO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="269" y="174.5" width="46" height="15" as="geometry" />
+        <mxCell id="bR-4oArYyXdeXGkrvtgy-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2x 2048x18bit&lt;/div&gt;&lt;div&gt;asynch FIFO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="248.5" y="160.5" width="85.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;65M&lt;/div&gt;&lt;div&gt;CMOS&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="51" y="276" width="52" height="23" as="geometry" />
@@ -159,8 +159,8 @@
             <mxPoint x="184" y="298.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bR-4oArYyXdeXGkrvtgy-54" value="&lt;div&gt;CLK&lt;/div&gt;&lt;div&gt;driver&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="202" y="284" width="52" height="23" as="geometry" />
+        <mxCell id="bR-4oArYyXdeXGkrvtgy-54" value="&lt;div&gt;CDCVF2510A&lt;/div&gt;&lt;div&gt;CLK driver&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="213" y="284" width="78" height="23" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267" y="204.5" width="10" height="40" as="geometry" />
@@ -230,16 +230,16 @@
           <mxGeometry x="226" y="323" width="12" height="9" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.computer;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="531" y="256.24" width="70" height="64.73" as="geometry" />
+          <mxGeometry x="588" y="256.24" width="70" height="64.73" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-83" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" parent="1" vertex="1">
-          <mxGeometry x="551.75" y="321.99" width="28.5" height="28.5" as="geometry" />
+          <mxGeometry x="608.75" y="321.99" width="28.5" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-85" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.coffee_pot;" parent="1" vertex="1">
-          <mxGeometry x="444" y="256.01" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="501" y="256.01" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-86" value="CPLD? FPGA?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="468" y="234.51" width="36" height="15" as="geometry" />
+          <mxGeometry x="525" y="234.51" width="36" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bR-4oArYyXdeXGkrvtgy-87" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="326" y="285" width="93" height="22" as="geometry" />
@@ -272,19 +272,28 @@
           <mxGeometry x="338" y="285" width="93" height="22" as="geometry" />
         </mxCell>
         <mxCell id="FoGmzmFJKZwqB6k9N8Ff-7" value="ETH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="548.25" y="351.5" width="36" height="15" as="geometry" />
+          <mxGeometry x="605.25" y="351.5" width="36" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-8" value="&lt;div&gt;3x12ch 2:1 MUX&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-8" value="&lt;div&gt;3x 12ch 2:1 MUX&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357" y="227" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FoGmzmFJKZwqB6k9N8Ff-9" value="DMA?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="551.25" y="242.51" width="36" height="15" as="geometry" />
+          <mxGeometry x="608.25" y="242.51" width="36" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-10" value="&lt;div&gt;2x2048x18bit&lt;/div&gt;&lt;div&gt;asynch FIFO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="406" width="46" height="15" as="geometry" />
+        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-10" value="&lt;div&gt;2x 2048x18bit&lt;/div&gt;&lt;div&gt;asynch FIFO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252" y="406" width="86" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FoGmzmFJKZwqB6k9N8Ff-11" value="&lt;div&gt;36 data pins&lt;/div&gt;&lt;div&gt;+ EN, SEL, CLK etc. pins&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="341" width="90" height="15" as="geometry" />
+          <mxGeometry x="395" y="318" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-13" value="AD9235" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="166.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-14" value="AD8138" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="166.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FoGmzmFJKZwqB6k9N8Ff-16" value="SN74V235" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="146.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
